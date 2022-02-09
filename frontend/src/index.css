@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.rightSpacing {
+  padding-right: 5px;
+}
+
+.cardBodyHeight {
+  height: 110px;
+  max-height: 200px;
+}
+
+.column-design {
+  width: 1280px;
+}
